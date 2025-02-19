@@ -1,0 +1,4 @@
+assembly,name,path,mapping
+GCF_000287275.1,carsonella_rudii,refs/dataset/ncbi_dataset/data/GCF_000287275.1/GCF_000287275.1_ASM28727v1_genomic.fna,genomeA
+GCF_000009085,campylobacter_jejuni,refs/dataset/ncbi_dataset/data/GCF_000009085.1/GCF_000009085.1_ASM908v1_genomic.fna,genomeB
+GCF_020736045.1,haemophilus_influenzae,refs/dataset/ncbi_dataset/data/GCF_020736045.1/GCF_020736045.1_ASM2073604v1_genomic.fna,genomeC

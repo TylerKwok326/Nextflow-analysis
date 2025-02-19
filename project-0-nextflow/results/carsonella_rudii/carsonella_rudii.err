@@ -1,0 +1,1080 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:183 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 183 present
+DISC_FEATURE_COUNT:tRNA: 28 present
+DISC_FEATURE_COUNT:rRNA: 2 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:213 features have inconsistent gene locations.
+OVERLAPPING_CDS:2 coding regions overlap another coding region with a similar or identical name.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:5 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:184 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::183 proteins have invalid IDs.
+carsonella_rudii/carsonella_rudii:NC_018416.1_1 (length 443)
+carsonella_rudii/carsonella_rudii:NC_018416.1_2 (length 499)
+carsonella_rudii/carsonella_rudii:NC_018416.1_3 (length 227)
+carsonella_rudii/carsonella_rudii:NC_018416.1_4 (length 77)
+carsonella_rudii/carsonella_rudii:NC_018416.1_5 (length 151)
+carsonella_rudii/carsonella_rudii:NC_018416.1_6 (length 53)
+carsonella_rudii/carsonella_rudii:NC_018416.1_7 (length 480)
+carsonella_rudii/carsonella_rudii:NC_018416.1_8 (length 248)
+carsonella_rudii/carsonella_rudii:NC_018416.1_9 (length 447)
+carsonella_rudii/carsonella_rudii:NC_018416.1_10 (length 80)
+carsonella_rudii/carsonella_rudii:NC_018416.1_11 (length 297)
+carsonella_rudii/carsonella_rudii:NC_018416.1_12 (length 36)
+carsonella_rudii/carsonella_rudii:NC_018416.1_13 (length 140)
+carsonella_rudii/carsonella_rudii:NC_018416.1_14 (length 634)
+carsonella_rudii/carsonella_rudii:NC_018416.1_15 (length 542)
+carsonella_rudii/carsonella_rudii:NC_018416.1_16 (length 239)
+carsonella_rudii/carsonella_rudii:NC_018416.1_17 (length 55)
+carsonella_rudii/carsonella_rudii:NC_018416.1_18 (length 315)
+carsonella_rudii/carsonella_rudii:NC_018416.1_19 (length 231)
+carsonella_rudii/carsonella_rudii:NC_018416.1_20 (length 210)
+carsonella_rudii/carsonella_rudii:NC_018416.1_21 (length 204)
+carsonella_rudii/carsonella_rudii:NC_018416.1_22 (length 180)
+carsonella_rudii/carsonella_rudii:NC_018416.1_23 (length 1111)
+carsonella_rudii/carsonella_rudii:NC_018416.1_24 (length 160)
+carsonella_rudii/carsonella_rudii:NC_018416.1_25 (length 685)
+carsonella_rudii/carsonella_rudii:NC_018416.1_26 (length 104)
+carsonella_rudii/carsonella_rudii:NC_018416.1_27 (length 138)
+carsonella_rudii/carsonella_rudii:NC_018416.1_28 (length 337)
+carsonella_rudii/carsonella_rudii:NC_018416.1_29 (length 547)
+carsonella_rudii/carsonella_rudii:NC_018416.1_30 (length 106)
+carsonella_rudii/carsonella_rudii:NC_018416.1_31 (length 399)
+carsonella_rudii/carsonella_rudii:NC_018416.1_32 (length 174)
+carsonella_rudii/carsonella_rudii:NC_018416.1_33 (length 399)
+carsonella_rudii/carsonella_rudii:NC_018416.1_34 (length 449)
+carsonella_rudii/carsonella_rudii:NC_018416.1_35 (length 220)
+carsonella_rudii/carsonella_rudii:NC_018416.1_36 (length 275)
+carsonella_rudii/carsonella_rudii:NC_018416.1_37 (length 380)
+carsonella_rudii/carsonella_rudii:NC_018416.1_38 (length 287)
+carsonella_rudii/carsonella_rudii:NC_018416.1_39 (length 71)
+carsonella_rudii/carsonella_rudii:NC_018416.1_40 (length 419)
+carsonella_rudii/carsonella_rudii:NC_018416.1_41 (length 411)
+carsonella_rudii/carsonella_rudii:NC_018416.1_42 (length 172)
+carsonella_rudii/carsonella_rudii:NC_018416.1_43 (length 145)
+carsonella_rudii/carsonella_rudii:NC_018416.1_44 (length 307)
+carsonella_rudii/carsonella_rudii:NC_018416.1_45 (length 230)
+carsonella_rudii/carsonella_rudii:NC_018416.1_46 (length 352)
+carsonella_rudii/carsonella_rudii:NC_018416.1_47 (length 449)
+carsonella_rudii/carsonella_rudii:NC_018416.1_48 (length 195)
+carsonella_rudii/carsonella_rudii:NC_018416.1_49 (length 410)
+carsonella_rudii/carsonella_rudii:NC_018416.1_50 (length 95)
+carsonella_rudii/carsonella_rudii:NC_018416.1_51 (length 126)
+carsonella_rudii/carsonella_rudii:NC_018416.1_52 (length 186)
+carsonella_rudii/carsonella_rudii:NC_018416.1_53 (length 247)
+carsonella_rudii/carsonella_rudii:NC_018416.1_54 (length 404)
+carsonella_rudii/carsonella_rudii:NC_018416.1_55 (length 378)
+carsonella_rudii/carsonella_rudii:NC_018416.1_56 (length 529)
+carsonella_rudii/carsonella_rudii:NC_018416.1_57 (length 94)
+carsonella_rudii/carsonella_rudii:NC_018416.1_58 (length 187)
+carsonella_rudii/carsonella_rudii:NC_018416.1_59 (length 154)
+carsonella_rudii/carsonella_rudii:NC_018416.1_60 (length 383)
+carsonella_rudii/carsonella_rudii:NC_018416.1_61 (length 183)
+carsonella_rudii/carsonella_rudii:NC_018416.1_62 (length 42)
+carsonella_rudii/carsonella_rudii:NC_018416.1_63 (length 252)
+carsonella_rudii/carsonella_rudii:NC_018416.1_64 (length 356)
+carsonella_rudii/carsonella_rudii:NC_018416.1_65 (length 242)
+carsonella_rudii/carsonella_rudii:NC_018416.1_66 (length 224)
+carsonella_rudii/carsonella_rudii:NC_018416.1_67 (length 199)
+carsonella_rudii/carsonella_rudii:NC_018416.1_68 (length 180)
+carsonella_rudii/carsonella_rudii:NC_018416.1_69 (length 109)
+carsonella_rudii/carsonella_rudii:NC_018416.1_70 (length 149)
+carsonella_rudii/carsonella_rudii:NC_018416.1_71 (length 601)
+carsonella_rudii/carsonella_rudii:NC_018416.1_72 (length 232)
+carsonella_rudii/carsonella_rudii:NC_018416.1_73 (length 150)
+carsonella_rudii/carsonella_rudii:NC_018416.1_74 (length 183)
+carsonella_rudii/carsonella_rudii:NC_018416.1_75 (length 519)
+carsonella_rudii/carsonella_rudii:NC_018416.1_76 (length 57)
+carsonella_rudii/carsonella_rudii:NC_018416.1_77 (length 309)
+carsonella_rudii/carsonella_rudii:NC_018416.1_78 (length 390)
+carsonella_rudii/carsonella_rudii:NC_018416.1_79 (length 192)
+carsonella_rudii/carsonella_rudii:NC_018416.1_80 (length 356)
+carsonella_rudii/carsonella_rudii:NC_018416.1_81 (length 288)
+carsonella_rudii/carsonella_rudii:NC_018416.1_82 (length 414)
+carsonella_rudii/carsonella_rudii:NC_018416.1_83 (length 1018)
+carsonella_rudii/carsonella_rudii:NC_018416.1_84 (length 450)
+carsonella_rudii/carsonella_rudii:NC_018416.1_85 (length 345)
+carsonella_rudii/carsonella_rudii:NC_018416.1_86 (length 455)
+carsonella_rudii/carsonella_rudii:NC_018416.1_87 (length 183)
+carsonella_rudii/carsonella_rudii:NC_018416.1_88 (length 347)
+carsonella_rudii/carsonella_rudii:NC_018416.1_89 (length 341)
+carsonella_rudii/carsonella_rudii:NC_018416.1_90 (length 129)
+carsonella_rudii/carsonella_rudii:NC_018416.1_91 (length 109)
+carsonella_rudii/carsonella_rudii:NC_018416.1_92 (length 180)
+carsonella_rudii/carsonella_rudii:NC_018416.1_93 (length 177)
+carsonella_rudii/carsonella_rudii:NC_018416.1_94 (length 394)
+carsonella_rudii/carsonella_rudii:NC_018416.1_95 (length 104)
+carsonella_rudii/carsonella_rudii:NC_018416.1_96 (length 57)
+carsonella_rudii/carsonella_rudii:NC_018416.1_97 (length 174)
+carsonella_rudii/carsonella_rudii:NC_018416.1_98 (length 202)
+carsonella_rudii/carsonella_rudii:NC_018416.1_99 (length 143)
+carsonella_rudii/carsonella_rudii:NC_018416.1_100 (length 552)
+carsonella_rudii/carsonella_rudii:NC_018416.1_101 (length 310)
+carsonella_rudii/carsonella_rudii:NC_018416.1_102 (length 422)
+carsonella_rudii/carsonella_rudii:NC_018416.1_103 (length 90)
+carsonella_rudii/carsonella_rudii:NC_018416.1_104 (length 632)
+carsonella_rudii/carsonella_rudii:NC_018416.1_105 (length 273)
+carsonella_rudii/carsonella_rudii:NC_018416.1_106 (length 347)
+carsonella_rudii/carsonella_rudii:NC_018416.1_107 (length 324)
+carsonella_rudii/carsonella_rudii:NC_018416.1_108 (length 423)
+carsonella_rudii/carsonella_rudii:NC_018416.1_109 (length 60)
+carsonella_rudii/carsonella_rudii:NC_018416.1_110 (length 391)
+carsonella_rudii/carsonella_rudii:NC_018416.1_111 (length 328)
+carsonella_rudii/carsonella_rudii:NC_018416.1_112 (length 296)
+carsonella_rudii/carsonella_rudii:NC_018416.1_113 (length 595)
+carsonella_rudii/carsonella_rudii:NC_018416.1_114 (length 175)
+carsonella_rudii/carsonella_rudii:NC_018416.1_115 (length 299)
+carsonella_rudii/carsonella_rudii:NC_018416.1_116 (length 293)
+carsonella_rudii/carsonella_rudii:NC_018416.1_117 (length 48)
+carsonella_rudii/carsonella_rudii:NC_018416.1_118 (length 62)
+carsonella_rudii/carsonella_rudii:NC_018416.1_119 (length 117)
+carsonella_rudii/carsonella_rudii:NC_018416.1_120 (length 379)
+carsonella_rudii/carsonella_rudii:NC_018416.1_121 (length 264)
+carsonella_rudii/carsonella_rudii:NC_018416.1_122 (length 439)
+carsonella_rudii/carsonella_rudii:NC_018416.1_123 (length 375)
+carsonella_rudii/carsonella_rudii:NC_018416.1_124 (length 63)
+carsonella_rudii/carsonella_rudii:NC_018416.1_125 (length 63)
+carsonella_rudii/carsonella_rudii:NC_018416.1_126 (length 73)
+carsonella_rudii/carsonella_rudii:NC_018416.1_127 (length 331)
+carsonella_rudii/carsonella_rudii:NC_018416.1_128 (length 130)
+carsonella_rudii/carsonella_rudii:NC_018416.1_129 (length 556)
+carsonella_rudii/carsonella_rudii:NC_018416.1_130 (length 202)
+carsonella_rudii/carsonella_rudii:NC_018416.1_131 (length 63)
+carsonella_rudii/carsonella_rudii:NC_018416.1_132 (length 808)
+carsonella_rudii/carsonella_rudii:NC_018416.1_133 (length 49)
+carsonella_rudii/carsonella_rudii:NC_018416.1_134 (length 257)
+carsonella_rudii/carsonella_rudii:NC_018416.1_135 (length 84)
+carsonella_rudii/carsonella_rudii:NC_018416.1_136 (length 102)
+carsonella_rudii/carsonella_rudii:NC_018416.1_137 (length 80)
+carsonella_rudii/carsonella_rudii:NC_018416.1_138 (length 319)
+carsonella_rudii/carsonella_rudii:NC_018416.1_139 (length 193)
+carsonella_rudii/carsonella_rudii:NC_018416.1_140 (length 119)
+carsonella_rudii/carsonella_rudii:NC_018416.1_141 (length 118)
+carsonella_rudii/carsonella_rudii:NC_018416.1_142 (length 37)
+carsonella_rudii/carsonella_rudii:NC_018416.1_143 (length 82)
+carsonella_rudii/carsonella_rudii:NC_018416.1_144 (length 138)
+carsonella_rudii/carsonella_rudii:NC_018416.1_145 (length 72)
+carsonella_rudii/carsonella_rudii:NC_018416.1_146 (length 166)
+carsonella_rudii/carsonella_rudii:NC_018416.1_147 (length 122)
+carsonella_rudii/carsonella_rudii:NC_018416.1_148 (length 93)
+carsonella_rudii/carsonella_rudii:NC_018416.1_149 (length 165)
+carsonella_rudii/carsonella_rudii:NC_018416.1_150 (length 122)
+carsonella_rudii/carsonella_rudii:NC_018416.1_151 (length 80)
+carsonella_rudii/carsonella_rudii:NC_018416.1_152 (length 135)
+carsonella_rudii/carsonella_rudii:NC_018416.1_153 (length 206)
+carsonella_rudii/carsonella_rudii:NC_018416.1_154 (length 102)
+carsonella_rudii/carsonella_rudii:NC_018416.1_155 (length 86)
+carsonella_rudii/carsonella_rudii:NC_018416.1_156 (length 230)
+carsonella_rudii/carsonella_rudii:NC_018416.1_157 (length 170)
+carsonella_rudii/carsonella_rudii:NC_018416.1_158 (length 136)
+carsonella_rudii/carsonella_rudii:NC_018416.1_159 (length 98)
+carsonella_rudii/carsonella_rudii:NC_018416.1_160 (length 396)
+carsonella_rudii/carsonella_rudii:NC_018416.1_161 (length 680)
+carsonella_rudii/carsonella_rudii:NC_018416.1_162 (length 156)
+carsonella_rudii/carsonella_rudii:NC_018416.1_163 (length 127)
+carsonella_rudii/carsonella_rudii:NC_018416.1_164 (length 1287)
+carsonella_rudii/carsonella_rudii:NC_018416.1_165 (length 1261)
+carsonella_rudii/carsonella_rudii:NC_018416.1_166 (length 114)
+carsonella_rudii/carsonella_rudii:NC_018416.1_167 (length 144)
+carsonella_rudii/carsonella_rudii:NC_018416.1_168 (length 188)
+carsonella_rudii/carsonella_rudii:NC_018416.1_169 (length 137)
+carsonella_rudii/carsonella_rudii:NC_018416.1_170 (length 88)
+carsonella_rudii/carsonella_rudii:NC_018416.1_171 (length 170)
+carsonella_rudii/carsonella_rudii:NC_018416.1_172 (length 601)
+carsonella_rudii/carsonella_rudii:NC_018416.1_173 (length 254)
+carsonella_rudii/carsonella_rudii:NC_018416.1_174 (length 156)
+carsonella_rudii/carsonella_rudii:NC_018416.1_175 (length 298)
+carsonella_rudii/carsonella_rudii:NC_018416.1_176 (length 150)
+carsonella_rudii/carsonella_rudii:NC_018416.1_177 (length 449)
+carsonella_rudii/carsonella_rudii:NC_018416.1_178 (length 397)
+carsonella_rudii/carsonella_rudii:NC_018416.1_179 (length 245)
+carsonella_rudii/carsonella_rudii:NC_018416.1_180 (length 245)
+carsonella_rudii/carsonella_rudii:NC_018416.1_181 (length 183)
+carsonella_rudii/carsonella_rudii:NC_018416.1_182 (length 67)
+carsonella_rudii/carsonella_rudii:NC_018416.1_183 (length 262)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 183 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 28 present
+DiscRep_ALL:DISC_FEATURE_COUNT::rRNA: 2 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+carsonella_rudii/carsonella_rudii:NC_018416.1 (length 166163)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::213 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	tRNA modification GTPase MnmE	NC_018416.1:1-1332	HEPKDHED_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	NC_018416.1:1332-2831	HEPKDHED_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	ATP synthase subunit a	NC_018416.1:2797-3480	HEPKDHED_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	ATP synthase subunit c	NC_018416.1:3482-3715	HEPKDHED_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:3717-4172	HEPKDHED_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:4165-4326	HEPKDHED_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	ATP synthase subunit alpha	NC_018416.1:4323-5765	HEPKDHED_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	ATP synthase gamma chain	NC_018416.1:5762-6508	HEPKDHED_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	ATP synthase subunit beta	NC_018416.1:6505-7848	HEPKDHED_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:7845-8087	HEPKDHED_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Ornithine carbamoyltransferase, catabolic	NC_018416.1:8074-8967	HEPKDHED_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c9069-8959	HEPKDHED_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	3-dehydroquinate dehydratase	NC_018416.1:c9482-9060	HEPKDHED_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Transketolase 1	NC_018416.1:c11383-9479	HEPKDHED_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:11385-13013	HEPKDHED_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	5,10-methylenetetrahydrofolate reductase	NC_018416.1:12994-13713	HEPKDHED_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c13887-13720	HEPKDHED_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	NC_018416.1:c15035-14088	HEPKDHED_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Methionine aminopeptidase	NC_018416.1:c15718-15023	HEPKDHED_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S2	NC_018416.1:15719-16351	HEPKDHED_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:16345-16959	HEPKDHED_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:16960-17502	HEPKDHED_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	DNA polymerase III subunit alpha	NC_018416.1:17495-20830	HEPKDHED_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:20827-21309	HEPKDHED_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	NC_018416.1:21328-23385	HEPKDHED_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Phosphoribosyl-ATP pyrophosphatase	NC_018416.1:c23696-23382	HEPKDHED_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:23858-24274	HEPKDHED_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	3-dehydroquinate synthase	NC_018416.1:24271-25284	HEPKDHED_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Dihydroxy-acid dehydratase	NC_018416.1:25274-26917	HEPKDHED_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:26975-27295	HEPKDHED_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Serine hydroxymethyltransferase	NC_018416.1:27288-28487	HEPKDHED_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c29014-28490	HEPKDHED_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Adenylosuccinate synthetase	NC_018416.1:29083-30282	HEPKDHED_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	FeS cluster assembly protein SufB	NC_018416.1:30279-31628	HEPKDHED_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	putative ABC transporter ATP-binding protein	NC_018416.1:31625-32287	HEPKDHED_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:32278-33105	HEPKDHED_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Cysteine desulfurase	NC_018416.1:33105-34247	HEPKDHED_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c35072-34209	HEPKDHED_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Translation initiation factor IF-1	NC_018416.1:c35287-35072	HEPKDHED_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	6-phosphogluconate dehydrogenase, decarboxylating	NC_018416.1:c37087-35828	HEPKDHED_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Isochorismate synthase MenF	NC_018416.1:37112-38347	HEPKDHED_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Aminodeoxychorismate/anthranilate synthase component 2	NC_018416.1:38344-38862	HEPKDHED_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c39545-39108	HEPKDHED_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Ribose-phosphate pyrophosphokinase	NC_018416.1:c40458-39535	HEPKDHED_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Peptide chain release factor 1	NC_018416.1:40459-41151	HEPKDHED_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial	NC_018416.1:c42199-41141	HEPKDHED_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Glutamyl-tRNA(Gln) amidotransferase subunit A	NC_018416.1:c43517-42168	HEPKDHED_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	ATP phosphoribosyltransferase	NC_018416.1:43646-44233	HEPKDHED_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Histidinol dehydrogenase	NC_018416.1:44217-45449	HEPKDHED_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:45446-45733	HEPKDHED_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S9	NC_018416.1:45730-46110	HEPKDHED_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:46252-46812	HEPKDHED_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:46805-47548	HEPKDHED_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	3-phosphoshikimate 1-carboxyvinyltransferase	NC_018416.1:47545-48759	HEPKDHED_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:48746-49882	HEPKDHED_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	60 kDa chaperonin	NC_018416.1:c51468-49879	HEPKDHED_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	10 kDa chaperonin	NC_018416.1:c51758-51474	HEPKDHED_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:52057-52620	HEPKDHED_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:52617-53081	HEPKDHED_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:53074-54225	HEPKDHED_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:54197-54748	HEPKDHED_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:54726-54854	HEPKDHED_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	DNA primase	NC_018416.1:54851-55609	HEPKDHED_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	RNA polymerase sigma factor RpoD	NC_018416.1:55606-56676	HEPKDHED_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Imidazole glycerol phosphate synthase subunit HisF	NC_018416.1:c58404-57676	HEPKDHED_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	NC_018416.1:c59072-58398	HEPKDHED_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Imidazole glycerol phosphate synthase subunit HisH	NC_018416.1:c59668-59069	HEPKDHED_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Histidine biosynthesis bifunctional protein HisB	NC_018416.1:c60207-59665	HEPKDHED_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	SsrA-binding protein	NC_018416.1:c60938-60609	HEPKDHED_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Protein GrpE	NC_018416.1:60939-61388	HEPKDHED_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Chaperone protein DnaK	NC_018416.1:61442-63247	HEPKDHED_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	4-hydroxy-tetrahydrodipicolinate reductase	NC_018416.1:63291-63989	HEPKDHED_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Carbamoyl-phosphate synthase small chain	NC_018416.1:63983-64435	HEPKDHED_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Carbamoyl-phosphate synthase small chain	NC_018416.1:64428-64979	HEPKDHED_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Translation initiation factor IF-2	NC_018416.1:67952-69511	HEPKDHED_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:69504-69677	HEPKDHED_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:69685-70614	HEPKDHED_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:70607-71779	HEPKDHED_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	ATP-dependent Clp protease proteolytic subunit	NC_018416.1:72023-72601	HEPKDHED_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	ATP-dependent Clp protease ATP-binding subunit ClpX	NC_018416.1:72582-73652	HEPKDHED_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Cardiolipin synthase	NC_018416.1:73879-74745	HEPKDHED_00097
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Aspartate--tRNA(Asp/Asn) ligase	NC_018416.1:74745-75989	HEPKDHED_00098
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Bifunctional protein PutA	NC_018416.1:c79746-76690	HEPKDHED_00100
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	2-isopropylmalate synthase	NC_018416.1:79758-81110	HEPKDHED_00101
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Chorismate synthase	NC_018416.1:81103-82140	HEPKDHED_00102
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	3-isopropylmalate dehydratase large subunit	NC_018416.1:82133-83500	HEPKDHED_00103
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	3-isopropylmalate dehydratase small subunit 1	NC_018416.1:83484-84035	HEPKDHED_00104
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	3-isopropylmalate dehydrogenase	NC_018416.1:84032-85075	HEPKDHED_00105
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Aspartate-semialdehyde dehydrogenase 1	NC_018416.1:85068-86093	HEPKDHED_00106
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:87100-87489	HEPKDHED_00108
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Phosphoribosyl-AMP cyclohydrolase	NC_018416.1:c87793-87464	HEPKDHED_00109
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c88328-87786	HEPKDHED_00110
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	DNA polymerase III subunit epsilon	NC_018416.1:c88858-88325	HEPKDHED_00111
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c90039-88855	HEPKDHED_00112
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c91008-90694	HEPKDHED_00113
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c91178-91005	HEPKDHED_00114
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Translation initiation factor IF-3	NC_018416.1:c91650-91126	HEPKDHED_00115
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c92262-91654	HEPKDHED_00116
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c92731-92300	HEPKDHED_00117
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Elongation factor 4	NC_018416.1:c94370-92712	HEPKDHED_00118
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive	NC_018416.1:c95283-94351	HEPKDHED_00119
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	NC_018416.1:95398-96666	HEPKDHED_00120
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:96650-96922	HEPKDHED_00121
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:96909-98807	HEPKDHED_00122
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Succinate--CoA ligase [ADP-forming] subunit alpha	NC_018416.1:c99612-98791	HEPKDHED_00123
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Succinate--CoA ligase [ADP-forming] subunit beta	NC_018416.1:c100645-99602	HEPKDHED_00124
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Glutamyl-Q tRNA(Asp) synthetase	NC_018416.1:c101606-100632	HEPKDHED_00125
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:101761-103032	HEPKDHED_00127
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:103029-103211	HEPKDHED_00128
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Argininosuccinate synthase	NC_018416.1:c104379-103204	HEPKDHED_00129
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c109215-108229	HEPKDHED_00135
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Protein RecA	NC_018416.1:c110090-109200	HEPKDHED_00136
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:110151-111938	HEPKDHED_00137
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Alkyl hydroperoxide reductase C	NC_018416.1:111910-112437	HEPKDHED_00138
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Transaldolase B	NC_018416.1:c113329-112430	HEPKDHED_00139
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c118810-117929	HEPKDHED_00142
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c118953-118807	HEPKDHED_00143
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c119129-118941	HEPKDHED_00144
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c119475-119122	HEPKDHED_00145
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Lysine--tRNA ligase	NC_018416.1:c120607-119468	HEPKDHED_00146
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Peptide chain release factor 2	NC_018416.1:c121398-120604	HEPKDHED_00147
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Threonine synthase	NC_018416.1:c122710-121391	HEPKDHED_00148
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c123837-122710	HEPKDHED_00149
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c124031-123840	HEPKDHED_00150
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c124210-124019	HEPKDHED_00151
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c124428-124207	HEPKDHED_00152
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Ketol-acid reductoisomerase (NAD(+))	NC_018416.1:c125555-124560	HEPKDHED_00154
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c125947-125555	HEPKDHED_00155
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Acetolactate synthase isozyme 3 large subunit	NC_018416.1:c127586-125916	HEPKDHED_00156
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	putative RNA pseudouridine synthase	NC_018416.1:c128191-127583	HEPKDHED_00157
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c128343-128152	HEPKDHED_00158
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Isoleucine--tRNA ligase	NC_018416.1:c130912-128486	HEPKDHED_00159
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c131055-130906	HEPKDHED_00160
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	GTPase Obg	NC_018416.1:c131813-131040	HEPKDHED_00161
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	50S ribosomal protein L27	NC_018416.1:c132057-131803	HEPKDHED_00162
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c132367-132059	HEPKDHED_00163
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c132606-132364	HEPKDHED_00164
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	DNA-directed RNA polymerase subunit alpha	NC_018416.1:c133549-132590	HEPKDHED_00165
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S4	NC_018416.1:c134127-133546	HEPKDHED_00166
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S11	NC_018416.1:c134486-134127	HEPKDHED_00167
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S13	NC_018416.1:c134829-134473	HEPKDHED_00168
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c134939-134826	HEPKDHED_00169
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c135165-134917	HEPKDHED_00170
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S5	NC_018416.1:c135578-135162	HEPKDHED_00171
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c135786-135568	HEPKDHED_00172
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	50S ribosomal protein L6	NC_018416.1:c136283-135783	HEPKDHED_00173
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c136648-136280	HEPKDHED_00174
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Alternate 30S ribosomal protein S14	NC_018416.1:c136929-136648	HEPKDHED_00175
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	50S ribosomal protein L5	NC_018416.1:c137431-136934	HEPKDHED_00176
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	50S ribosomal protein L14	NC_018416.1:c137796-137428	HEPKDHED_00177
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S17	NC_018416.1:c138035-137793	HEPKDHED_00178
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	50S ribosomal protein L16	NC_018416.1:c138435-138028	HEPKDHED_00179
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S3	NC_018416.1:c139039-138419	HEPKDHED_00180
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c139340-139032	HEPKDHED_00181
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S19	NC_018416.1:c139590-139330	HEPKDHED_00182
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	50S ribosomal protein L2	NC_018416.1:c140279-139587	HEPKDHED_00183
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c140781-140269	HEPKDHED_00184
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c141188-140778	HEPKDHED_00185
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c141481-141185	HEPKDHED_00186
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Elongation factor Tu	NC_018416.1:c142668-141478	HEPKDHED_00187
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Elongation factor G	NC_018416.1:c144712-142670	HEPKDHED_00188
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S7	NC_018416.1:c145179-144709	HEPKDHED_00189
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	30S ribosomal protein S12	NC_018416.1:c145538-145155	HEPKDHED_00190
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	DNA-directed RNA polymerase subunit beta'	NC_018416.1:c149379-145516	HEPKDHED_00191
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	DNA-directed RNA polymerase subunit beta	NC_018416.1:c153168-149383	HEPKDHED_00192
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	50S ribosomal protein L7/L12	NC_018416.1:c153509-153165	HEPKDHED_00193
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c153924-153490	HEPKDHED_00194
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c154487-153921	HEPKDHED_00195
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	50S ribosomal protein L11	NC_018416.1:c154893-154480	HEPKDHED_00196
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c155475-155209	HEPKDHED_00200
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Cytochrome bo(3) ubiquinol oxidase subunit 3	NC_018416.1:c155954-155442	HEPKDHED_00201
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Cytochrome bo(3) ubiquinol oxidase subunit 1	NC_018416.1:c157752-155947	HEPKDHED_00202
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Cytochrome bo(3) ubiquinol oxidase subunit 2	NC_018416.1:c158513-157749	HEPKDHED_00203
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:158721-159191	HEPKDHED_00204
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	putative branched-chain-amino-acid aminotransferase	NC_018416.1:159188-160084	HEPKDHED_00205
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Peptide deformylase	NC_018416.1:160077-160529	HEPKDHED_00206
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Argininosuccinate lyase	NC_018416.1:160526-161875	HEPKDHED_00207
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Diaminopimelate decarboxylase	NC_018416.1:161868-163061	HEPKDHED_00208
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Diaminopimelate epimerase	NC_018416.1:163054-163791	HEPKDHED_00209
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Glycine--tRNA ligase alpha subunit	NC_018416.1:163788-164525	HEPKDHED_00210
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:164519-165070	HEPKDHED_00211
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	Cold shock protein CspV	NC_018416.1:c165306-165103	HEPKDHED_00212
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+carsonella_rudii/carsonella_rudii:CDS	hypothetical protein	NC_018416.1:c166163-165375	HEPKDHED_00213
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Ile	NC_018416.1:14010-14085	HEPKDHED_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Glu	NC_018416.1:35314-35387	HEPKDHED_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Gly	NC_018416.1:35385-35458	HEPKDHED_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Ser	NC_018416.1:35458-35546	HEPKDHED_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Asn	NC_018416.1:38926-39000	HEPKDHED_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Met	NC_018416.1:c39072-38999	HEPKDHED_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Val	NC_018416.1:51890-51964	HEPKDHED_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Asp	NC_018416.1:51968-52043	HEPKDHED_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Ala	NC_018416.1:56681-56752	HEPKDHED_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Phe	NC_018416.1:60224-60298	HEPKDHED_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Gln	NC_018416.1:60298-60369	HEPKDHED_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Thr	NC_018416.1:60374-60447	HEPKDHED_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Leu	NC_018416.1:67860-67940	HEPKDHED_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Pro	NC_018416.1:71782-71855	HEPKDHED_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Arg	NC_018416.1:71856-71929	HEPKDHED_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	His	NC_018416.1:71932-72005	HEPKDHED_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Ser	NC_018416.1:76034-76118	HEPKDHED_00099
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Leu	NC_018416.1:86999-87077	HEPKDHED_00107
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Met	NC_018416.1:c101687-101615	HEPKDHED_00126
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Cys	NC_018416.1:104415-104485	HEPKDHED_00130
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Leu	NC_018416.1:104502-104585	HEPKDHED_00131
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Lys	NC_018416.1:c105429-105356	HEPKDHED_00132
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Arg	NC_018416.1:c106923-106849	HEPKDHED_00133
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Ser	NC_018416.1:c107007-106925	HEPKDHED_00134
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:rRNA	23S ribosomal RNA	NC_018416.1:c116255-113499	HEPKDHED_00140
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:rRNA	16S ribosomal RNA	NC_018416.1:c117852-116323	HEPKDHED_00141
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Met	NC_018416.1:124476-124550	HEPKDHED_00153
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Trp	NC_018416.1:c154982-154910	HEPKDHED_00197
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Gly	NC_018416.1:c155064-154994	HEPKDHED_00198
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+carsonella_rudii/carsonella_rudii:tRNA	Tyr	NC_018416.1:c155151-155071	HEPKDHED_00199
+
+DiscRep_ALL:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name.
+DiscRep_SUB:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name that do not have the appropriate note text
+carsonella_rudii/carsonella_rudii:CDS	Carbamoyl-phosphate synthase small chain	NC_018416.1:63983-64435	HEPKDHED_00085
+carsonella_rudii/carsonella_rudii:CDS	Carbamoyl-phosphate synthase small chain	NC_018416.1:64428-64979	HEPKDHED_00086
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+carsonella_rudii/carsonella_rudii:NC_018416.1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::5 protein sequences are shorter than 50 aa.
+carsonella_rudii/carsonella_rudii:NC_018416.1_12 (length 36)
+carsonella_rudii/carsonella_rudii:NC_018416.1_62 (length 42)
+carsonella_rudii/carsonella_rudii:NC_018416.1_117 (length 48)
+carsonella_rudii/carsonella_rudii:NC_018416.1_133 (length 49)
+carsonella_rudii/carsonella_rudii:NC_018416.1_142 (length 37)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+carsonella_rudii/carsonella_rudii:NC_018416.1 (length 166163)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+carsonella_rudii/carsonella_rudii:NC_018416.1 (length 166163)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+carsonella_rudii/carsonella_rudii:NC_018416.1 (length 166163)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+carsonella_rudii/carsonella_rudii:NC_018416.1 (length 166163)
+
+DiscRep_ALL:MISSING_PROJECT::184 sequences do not include project.
+carsonella_rudii/carsonella_rudii:NC_018416.1 (length 166163)
+carsonella_rudii/carsonella_rudii:NC_018416.1_1 (length 443)
+carsonella_rudii/carsonella_rudii:NC_018416.1_2 (length 499)
+carsonella_rudii/carsonella_rudii:NC_018416.1_3 (length 227)
+carsonella_rudii/carsonella_rudii:NC_018416.1_4 (length 77)
+carsonella_rudii/carsonella_rudii:NC_018416.1_5 (length 151)
+carsonella_rudii/carsonella_rudii:NC_018416.1_6 (length 53)
+carsonella_rudii/carsonella_rudii:NC_018416.1_7 (length 480)
+carsonella_rudii/carsonella_rudii:NC_018416.1_8 (length 248)
+carsonella_rudii/carsonella_rudii:NC_018416.1_9 (length 447)
+carsonella_rudii/carsonella_rudii:NC_018416.1_10 (length 80)
+carsonella_rudii/carsonella_rudii:NC_018416.1_11 (length 297)
+carsonella_rudii/carsonella_rudii:NC_018416.1_12 (length 36)
+carsonella_rudii/carsonella_rudii:NC_018416.1_13 (length 140)
+carsonella_rudii/carsonella_rudii:NC_018416.1_14 (length 634)
+carsonella_rudii/carsonella_rudii:NC_018416.1_15 (length 542)
+carsonella_rudii/carsonella_rudii:NC_018416.1_16 (length 239)
+carsonella_rudii/carsonella_rudii:NC_018416.1_17 (length 55)
+carsonella_rudii/carsonella_rudii:NC_018416.1_18 (length 315)
+carsonella_rudii/carsonella_rudii:NC_018416.1_19 (length 231)
+carsonella_rudii/carsonella_rudii:NC_018416.1_20 (length 210)
+carsonella_rudii/carsonella_rudii:NC_018416.1_21 (length 204)
+carsonella_rudii/carsonella_rudii:NC_018416.1_22 (length 180)
+carsonella_rudii/carsonella_rudii:NC_018416.1_23 (length 1111)
+carsonella_rudii/carsonella_rudii:NC_018416.1_24 (length 160)
+carsonella_rudii/carsonella_rudii:NC_018416.1_25 (length 685)
+carsonella_rudii/carsonella_rudii:NC_018416.1_26 (length 104)
+carsonella_rudii/carsonella_rudii:NC_018416.1_27 (length 138)
+carsonella_rudii/carsonella_rudii:NC_018416.1_28 (length 337)
+carsonella_rudii/carsonella_rudii:NC_018416.1_29 (length 547)
+carsonella_rudii/carsonella_rudii:NC_018416.1_30 (length 106)
+carsonella_rudii/carsonella_rudii:NC_018416.1_31 (length 399)
+carsonella_rudii/carsonella_rudii:NC_018416.1_32 (length 174)
+carsonella_rudii/carsonella_rudii:NC_018416.1_33 (length 399)
+carsonella_rudii/carsonella_rudii:NC_018416.1_34 (length 449)
+carsonella_rudii/carsonella_rudii:NC_018416.1_35 (length 220)
+carsonella_rudii/carsonella_rudii:NC_018416.1_36 (length 275)
+carsonella_rudii/carsonella_rudii:NC_018416.1_37 (length 380)
+carsonella_rudii/carsonella_rudii:NC_018416.1_38 (length 287)
+carsonella_rudii/carsonella_rudii:NC_018416.1_39 (length 71)
+carsonella_rudii/carsonella_rudii:NC_018416.1_40 (length 419)
+carsonella_rudii/carsonella_rudii:NC_018416.1_41 (length 411)
+carsonella_rudii/carsonella_rudii:NC_018416.1_42 (length 172)
+carsonella_rudii/carsonella_rudii:NC_018416.1_43 (length 145)
+carsonella_rudii/carsonella_rudii:NC_018416.1_44 (length 307)
+carsonella_rudii/carsonella_rudii:NC_018416.1_45 (length 230)
+carsonella_rudii/carsonella_rudii:NC_018416.1_46 (length 352)
+carsonella_rudii/carsonella_rudii:NC_018416.1_47 (length 449)
+carsonella_rudii/carsonella_rudii:NC_018416.1_48 (length 195)
+carsonella_rudii/carsonella_rudii:NC_018416.1_49 (length 410)
+carsonella_rudii/carsonella_rudii:NC_018416.1_50 (length 95)
+carsonella_rudii/carsonella_rudii:NC_018416.1_51 (length 126)
+carsonella_rudii/carsonella_rudii:NC_018416.1_52 (length 186)
+carsonella_rudii/carsonella_rudii:NC_018416.1_53 (length 247)
+carsonella_rudii/carsonella_rudii:NC_018416.1_54 (length 404)
+carsonella_rudii/carsonella_rudii:NC_018416.1_55 (length 378)
+carsonella_rudii/carsonella_rudii:NC_018416.1_56 (length 529)
+carsonella_rudii/carsonella_rudii:NC_018416.1_57 (length 94)
+carsonella_rudii/carsonella_rudii:NC_018416.1_58 (length 187)
+carsonella_rudii/carsonella_rudii:NC_018416.1_59 (length 154)
+carsonella_rudii/carsonella_rudii:NC_018416.1_60 (length 383)
+carsonella_rudii/carsonella_rudii:NC_018416.1_61 (length 183)
+carsonella_rudii/carsonella_rudii:NC_018416.1_62 (length 42)
+carsonella_rudii/carsonella_rudii:NC_018416.1_63 (length 252)
+carsonella_rudii/carsonella_rudii:NC_018416.1_64 (length 356)
+carsonella_rudii/carsonella_rudii:NC_018416.1_65 (length 242)
+carsonella_rudii/carsonella_rudii:NC_018416.1_66 (length 224)
+carsonella_rudii/carsonella_rudii:NC_018416.1_67 (length 199)
+carsonella_rudii/carsonella_rudii:NC_018416.1_68 (length 180)
+carsonella_rudii/carsonella_rudii:NC_018416.1_69 (length 109)
+carsonella_rudii/carsonella_rudii:NC_018416.1_70 (length 149)
+carsonella_rudii/carsonella_rudii:NC_018416.1_71 (length 601)
+carsonella_rudii/carsonella_rudii:NC_018416.1_72 (length 232)
+carsonella_rudii/carsonella_rudii:NC_018416.1_73 (length 150)
+carsonella_rudii/carsonella_rudii:NC_018416.1_74 (length 183)
+carsonella_rudii/carsonella_rudii:NC_018416.1_75 (length 519)
+carsonella_rudii/carsonella_rudii:NC_018416.1_76 (length 57)
+carsonella_rudii/carsonella_rudii:NC_018416.1_77 (length 309)
+carsonella_rudii/carsonella_rudii:NC_018416.1_78 (length 390)
+carsonella_rudii/carsonella_rudii:NC_018416.1_79 (length 192)
+carsonella_rudii/carsonella_rudii:NC_018416.1_80 (length 356)
+carsonella_rudii/carsonella_rudii:NC_018416.1_81 (length 288)
+carsonella_rudii/carsonella_rudii:NC_018416.1_82 (length 414)
+carsonella_rudii/carsonella_rudii:NC_018416.1_83 (length 1018)
+carsonella_rudii/carsonella_rudii:NC_018416.1_84 (length 450)
+carsonella_rudii/carsonella_rudii:NC_018416.1_85 (length 345)
+carsonella_rudii/carsonella_rudii:NC_018416.1_86 (length 455)
+carsonella_rudii/carsonella_rudii:NC_018416.1_87 (length 183)
+carsonella_rudii/carsonella_rudii:NC_018416.1_88 (length 347)
+carsonella_rudii/carsonella_rudii:NC_018416.1_89 (length 341)
+carsonella_rudii/carsonella_rudii:NC_018416.1_90 (length 129)
+carsonella_rudii/carsonella_rudii:NC_018416.1_91 (length 109)
+carsonella_rudii/carsonella_rudii:NC_018416.1_92 (length 180)
+carsonella_rudii/carsonella_rudii:NC_018416.1_93 (length 177)
+carsonella_rudii/carsonella_rudii:NC_018416.1_94 (length 394)
+carsonella_rudii/carsonella_rudii:NC_018416.1_95 (length 104)
+carsonella_rudii/carsonella_rudii:NC_018416.1_96 (length 57)
+carsonella_rudii/carsonella_rudii:NC_018416.1_97 (length 174)
+carsonella_rudii/carsonella_rudii:NC_018416.1_98 (length 202)
+carsonella_rudii/carsonella_rudii:NC_018416.1_99 (length 143)
+carsonella_rudii/carsonella_rudii:NC_018416.1_100 (length 552)
+carsonella_rudii/carsonella_rudii:NC_018416.1_101 (length 310)
+carsonella_rudii/carsonella_rudii:NC_018416.1_102 (length 422)
+carsonella_rudii/carsonella_rudii:NC_018416.1_103 (length 90)
+carsonella_rudii/carsonella_rudii:NC_018416.1_104 (length 632)
+carsonella_rudii/carsonella_rudii:NC_018416.1_105 (length 273)
+carsonella_rudii/carsonella_rudii:NC_018416.1_106 (length 347)
+carsonella_rudii/carsonella_rudii:NC_018416.1_107 (length 324)
+carsonella_rudii/carsonella_rudii:NC_018416.1_108 (length 423)
+carsonella_rudii/carsonella_rudii:NC_018416.1_109 (length 60)
+carsonella_rudii/carsonella_rudii:NC_018416.1_110 (length 391)
+carsonella_rudii/carsonella_rudii:NC_018416.1_111 (length 328)
+carsonella_rudii/carsonella_rudii:NC_018416.1_112 (length 296)
+carsonella_rudii/carsonella_rudii:NC_018416.1_113 (length 595)
+carsonella_rudii/carsonella_rudii:NC_018416.1_114 (length 175)
+carsonella_rudii/carsonella_rudii:NC_018416.1_115 (length 299)
+carsonella_rudii/carsonella_rudii:NC_018416.1_116 (length 293)
+carsonella_rudii/carsonella_rudii:NC_018416.1_117 (length 48)
+carsonella_rudii/carsonella_rudii:NC_018416.1_118 (length 62)
+carsonella_rudii/carsonella_rudii:NC_018416.1_119 (length 117)
+carsonella_rudii/carsonella_rudii:NC_018416.1_120 (length 379)
+carsonella_rudii/carsonella_rudii:NC_018416.1_121 (length 264)
+carsonella_rudii/carsonella_rudii:NC_018416.1_122 (length 439)
+carsonella_rudii/carsonella_rudii:NC_018416.1_123 (length 375)
+carsonella_rudii/carsonella_rudii:NC_018416.1_124 (length 63)
+carsonella_rudii/carsonella_rudii:NC_018416.1_125 (length 63)
+carsonella_rudii/carsonella_rudii:NC_018416.1_126 (length 73)
+carsonella_rudii/carsonella_rudii:NC_018416.1_127 (length 331)
+carsonella_rudii/carsonella_rudii:NC_018416.1_128 (length 130)
+carsonella_rudii/carsonella_rudii:NC_018416.1_129 (length 556)
+carsonella_rudii/carsonella_rudii:NC_018416.1_130 (length 202)
+carsonella_rudii/carsonella_rudii:NC_018416.1_131 (length 63)
+carsonella_rudii/carsonella_rudii:NC_018416.1_132 (length 808)
+carsonella_rudii/carsonella_rudii:NC_018416.1_133 (length 49)
+carsonella_rudii/carsonella_rudii:NC_018416.1_134 (length 257)
+carsonella_rudii/carsonella_rudii:NC_018416.1_135 (length 84)
+carsonella_rudii/carsonella_rudii:NC_018416.1_136 (length 102)
+carsonella_rudii/carsonella_rudii:NC_018416.1_137 (length 80)
+carsonella_rudii/carsonella_rudii:NC_018416.1_138 (length 319)
+carsonella_rudii/carsonella_rudii:NC_018416.1_139 (length 193)
+carsonella_rudii/carsonella_rudii:NC_018416.1_140 (length 119)
+carsonella_rudii/carsonella_rudii:NC_018416.1_141 (length 118)
+carsonella_rudii/carsonella_rudii:NC_018416.1_142 (length 37)
+carsonella_rudii/carsonella_rudii:NC_018416.1_143 (length 82)
+carsonella_rudii/carsonella_rudii:NC_018416.1_144 (length 138)
+carsonella_rudii/carsonella_rudii:NC_018416.1_145 (length 72)
+carsonella_rudii/carsonella_rudii:NC_018416.1_146 (length 166)
+carsonella_rudii/carsonella_rudii:NC_018416.1_147 (length 122)
+carsonella_rudii/carsonella_rudii:NC_018416.1_148 (length 93)
+carsonella_rudii/carsonella_rudii:NC_018416.1_149 (length 165)
+carsonella_rudii/carsonella_rudii:NC_018416.1_150 (length 122)
+carsonella_rudii/carsonella_rudii:NC_018416.1_151 (length 80)
+carsonella_rudii/carsonella_rudii:NC_018416.1_152 (length 135)
+carsonella_rudii/carsonella_rudii:NC_018416.1_153 (length 206)
+carsonella_rudii/carsonella_rudii:NC_018416.1_154 (length 102)
+carsonella_rudii/carsonella_rudii:NC_018416.1_155 (length 86)
+carsonella_rudii/carsonella_rudii:NC_018416.1_156 (length 230)
+carsonella_rudii/carsonella_rudii:NC_018416.1_157 (length 170)
+carsonella_rudii/carsonella_rudii:NC_018416.1_158 (length 136)
+carsonella_rudii/carsonella_rudii:NC_018416.1_159 (length 98)
+carsonella_rudii/carsonella_rudii:NC_018416.1_160 (length 396)
+carsonella_rudii/carsonella_rudii:NC_018416.1_161 (length 680)
+carsonella_rudii/carsonella_rudii:NC_018416.1_162 (length 156)
+carsonella_rudii/carsonella_rudii:NC_018416.1_163 (length 127)
+carsonella_rudii/carsonella_rudii:NC_018416.1_164 (length 1287)
+carsonella_rudii/carsonella_rudii:NC_018416.1_165 (length 1261)
+carsonella_rudii/carsonella_rudii:NC_018416.1_166 (length 114)
+carsonella_rudii/carsonella_rudii:NC_018416.1_167 (length 144)
+carsonella_rudii/carsonella_rudii:NC_018416.1_168 (length 188)
+carsonella_rudii/carsonella_rudii:NC_018416.1_169 (length 137)
+carsonella_rudii/carsonella_rudii:NC_018416.1_170 (length 88)
+carsonella_rudii/carsonella_rudii:NC_018416.1_171 (length 170)
+carsonella_rudii/carsonella_rudii:NC_018416.1_172 (length 601)
+carsonella_rudii/carsonella_rudii:NC_018416.1_173 (length 254)
+carsonella_rudii/carsonella_rudii:NC_018416.1_174 (length 156)
+carsonella_rudii/carsonella_rudii:NC_018416.1_175 (length 298)
+carsonella_rudii/carsonella_rudii:NC_018416.1_176 (length 150)
+carsonella_rudii/carsonella_rudii:NC_018416.1_177 (length 449)
+carsonella_rudii/carsonella_rudii:NC_018416.1_178 (length 397)
+carsonella_rudii/carsonella_rudii:NC_018416.1_179 (length 245)
+carsonella_rudii/carsonella_rudii:NC_018416.1_180 (length 245)
+carsonella_rudii/carsonella_rudii:NC_018416.1_181 (length 183)
+carsonella_rudii/carsonella_rudii:NC_018416.1_182 (length 67)
+carsonella_rudii/carsonella_rudii:NC_018416.1_183 (length 262)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+carsonella_rudii/carsonella_rudii:NC_018416.1 (length 166163)
+
